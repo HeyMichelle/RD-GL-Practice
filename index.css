@@ -19,13 +19,19 @@ section {
 
 i {
     font-size: 26px;
+    color: #ffebcd;
+    background-color: white;
+    padding-top: 12px;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
 }
 
 /*  HEADER */
 
 header {
     /* background issue may be because of my url option, check later */
-    background-image: url('../images/cactus-header-home.jpg');
+    background-image: url('cactus-header-home.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -75,7 +81,7 @@ nav a {
 /* SKILLS */
 
 #skills {
-    background-color: #ffdab9;
+    background-color: hsl(26, 19%, 93%);
 }
 
 #skills h2 {
