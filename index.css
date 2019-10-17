@@ -5,7 +5,7 @@
     padding: 0px;
     margin: 0px;
     max-width: 100%;
-    font-family: helvetica, arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     /*  added a border here for visibility */
     /* border: 1px solid gray; */
 }
@@ -22,6 +22,7 @@ i {
     font-size: 26px;
     color: #ffebcd;
     background-color: white;
+    margin-bottom: 1px;
     padding-top: 12px;
     height: 50px;
     width: 50px;
